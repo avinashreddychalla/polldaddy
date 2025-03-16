@@ -1,0 +1,13 @@
+# Exclude target directory
+target/
+
+# IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+
+# Build system files
+*.class
+
+
