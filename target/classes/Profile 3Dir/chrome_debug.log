@@ -1,1 +1,0 @@
-[30748:15692:0816/134316.610:WARNING:leveldb_database.cc(106)] Unable to open C:\Users\I352450\MyWorkspace\polldaddy\src\main\resources\Profile 3Dir\Profile 3\shared_proto_db: Invalid argument: C:\Users\I352450\MyWorkspace\polldaddy\src\main\resources\Profile 3Dir\Profile 3\shared_proto_db: does not exist (create_if_missing is false)
